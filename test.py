@@ -13,3 +13,5 @@ while guess :
         break
 
     guess = int(input('Enter a number : '))
+
+print('Out of loop')
