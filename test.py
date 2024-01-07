@@ -1,1 +1,1 @@
-name = input('Enter your full name : ')
+name = input('Enter your full name : ').split()
